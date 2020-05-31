@@ -1,0 +1,5 @@
+ControlFocus("Open", "", "Edit1")
+Sleep(3000)
+ControlSetText("Open", "", "Edit1", "C:\Users\thanh\eclipse-workspace\Phase1_Final_Project\Images\bird.jpg")
+Sleep(3000)
+ControlClick("Open", "", "Button1")
